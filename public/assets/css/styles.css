@@ -27,3 +27,7 @@ nav {
 .align-middle {
   margin-top: 10px !important;
 }
+
+.nav-wrapper {
+  padding-top: 20px;
+}
