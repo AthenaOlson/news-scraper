@@ -13,3 +13,17 @@ h4{
 .hover:hover{
     background-color: rgba(0,0,0,0.5);
 }
+
+.card {
+  border-radius: 5px;
+}
+
+nav {
+  background: rgb(79, 136, 243) !important;
+  margin-bottom: 40px !important;
+  height: 100px;
+}
+
+.align-middle {
+  margin-top: 10px !important;
+}

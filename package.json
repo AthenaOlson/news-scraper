@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/roverkim/All-the-News-That-s-Fit-to-Scrape.git"
+    "url": "git+https://github.com/AthenaOlson/news-scraper.git"
   },
   "author": "Ryan",
   "license": "ISC",
